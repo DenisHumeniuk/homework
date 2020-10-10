@@ -1,0 +1,21 @@
+html {
+   width: 570px;
+   font-style: italic;
+   text-align: center;
+   margin-top: 0;
+   margin-bottom: 5px;
+}
+h1 {
+   background-color: red;
+   width: 570px;
+}
+body {
+   width: 550px;
+}
+h3 {
+   background-color: black;
+   width: 560px;
+}
+IMG {
+   border: 2px solid black;
+}
